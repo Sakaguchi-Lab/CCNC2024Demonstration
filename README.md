@@ -1,5 +1,5 @@
 # CCNC2024Demonstration
-### Proof-of-Concept of Digital Twin for Road Safety Assisted by Heterogeneous B5G MEC Network
+### Proof-of-Concept of Digital Twin for Road Safety assisted by Heterogeneous B5G MEC Network
 
 Click below images for the video demo.
 
