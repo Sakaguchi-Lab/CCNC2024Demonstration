@@ -1,5 +1,5 @@
 # CCNC 2024 Demonstration
-### Beyond 5G/6G: The Role of Digital Twin Platforms in Conncected Autonomous Vehicle and Traffic Safety
+### Proof-of-Concept of Digital Twin for Road Safety Assisted by Heterogeneous B5G MEC Network
 
 Click below images for the video demo.
 
